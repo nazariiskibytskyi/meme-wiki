@@ -27,7 +27,7 @@ A React application for browsing, viewing, and managing popular internet memes. 
 
 1. Clone the repository:
 ``` bash
-git clone https://github.com/nezeracuk/meme-wiki.git 
+git clone https://github.com/nazariiskibytskyi/meme-wiki.git 
 cd meme-wiki
 ```
 2. Install dependencies:
